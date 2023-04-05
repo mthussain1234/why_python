@@ -62,4 +62,27 @@ Some companies that use Python:
 * **Spotify** : Spotify uses Python specifically for their music recommendation system
   * It uses machine learning algorithms to suggest songs to the user based on their previously listened.
 
-  
+## Why is python in demand as a skill?
+
+* Versatility - Python is a versatile language that can be used for a wide range of applications
+* Ease of use - easy to learn, syntax is simple and intuitive
+* Python is one of the most popular programming languages
+* As big data and machine learning, Python has become an increasingly popular language for data analysis and machine learning tasks
+
+## Salaries for Python Skilled professionals
+
+The average python developer salary in the United Kingdom is £57,500 per year or £29.49 per hour. Entry level positions start at £45,000 per year while most experienced workers make up to £80,000 per year
+
+## Why is Python used in DevOps?
+
+* Automation
+  * Python is popular for automation due to its ease of use, readability. This makes it
+an ideal choice to write scripts for automation
+* IaC - Python is used for provisioning and configuring infrastructure resources
+  * Pythons libraries and modules (eg: Ansible, Terraform, AWS SDK)
+    * These make it easy to automate these tasks
+* Testing - Testing frameworks such as Pytest and Unittest exist
+  * These allow DevOps teams to write/execute tests on their code
+* Community Support - Python has a  large community which is also very active
+  * This also means there are tons of resources available for DevOps teams
+    * Ranging from forums, libraries and tutorials
